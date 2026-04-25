@@ -1,0 +1,9 @@
+site_name: Mass Booklet Maker
+site_url: https://hanleyc01.github.io/mass-booklet-maker/
+
+theme:
+  name: material   # or 'mkdocs' for the default theme
+
+nav:
+  - Home: index.md
+  - Usage: usage.md
